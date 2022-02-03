@@ -6,4 +6,4 @@ Around thirty years ago I took the lead of a then half dead mainframe project, t
 to be continued
 
 helpful book
-https://press.uchicago.edu/dam/ucp/books/jacket/0226/55/0226556115.jpeg
+![mccawley](026556115.jpeg)
